@@ -43,7 +43,15 @@
 /*                      BASE                              
 /*=================================================================*/
 
+::-moz-selection {
+  color: #444;
+  background: pink;
+}
 
+::selection {
+  color: #444;
+  background: pink;
+}
 
 
 /* width */
