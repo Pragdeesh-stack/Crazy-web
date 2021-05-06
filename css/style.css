@@ -81,7 +81,7 @@
 html {
   margin: 0 !important;
   overflow: auto !important;
-  cursor: url("../images/cur.png"), pointer;
+  cursor: url("/images/cur.png"), pointer;
 }
 
 body {
