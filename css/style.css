@@ -71,7 +71,9 @@
 
 
 
-
+.cur{
+    cursor: url("/images/cur.png"), pointer;
+}
 
 * {
   margin: 0;
